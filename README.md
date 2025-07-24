@@ -43,15 +43,22 @@ El modelo fue construido a partir de múltiples archivos en formato `.csv` y `.x
 
 ### Dashboard General – Sectores Videoclub y Alimentos/Juguetes
 
-![Dashboard General](./Captura%20de%20pantalla%202025-07-24%20100104.png)
+[![Dashboard General](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_General.png)]
 
 ---
 
 ### Detalle Videoclub – Popularidad, Alquileres y Géneros
 
-![Dashboard Videoclub](./Captura%20de%20pantalla%202025-07-24%20100046.png)
+![Dashboard Videoclub](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_Video.png))
 
 ---
+
+### Detalle Almacen – Ventas, Sucursales y Productos
+
+![Dashboard Videoclub](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_toys.png))
+
+---
+
 
 ## ⚙️ Herramientas utilizadas
 
@@ -114,15 +121,22 @@ The data model was built using multiple `.csv` and `.xlsx` files containing:
 
 ### General Dashboard – Videoclub and Food/Toys Sections
 
-![General Dashboard](./Captura%20de%20pantalla%202025-07-24%20100104.png)
+[![General_Dashboard](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_General.png)]
 
 ---
 
 ### Videoclub Detail – Popularity, Rentals and Genre Analysis
 
-![Videoclub Dashboard](./Captura%20de%20pantalla%202025-07-24%20100046.png)
+![Videoclub Dashboard](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_Video.png))
 
 ---
+
+### Store Overview – Sales, Locations, and Products
+
+![Store_Dashboard](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_toys.png))
+
+---
+
 
 ## ⚙️ Tools Used
 
