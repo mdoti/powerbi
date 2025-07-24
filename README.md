@@ -55,7 +55,7 @@ El modelo fue construido a partir de múltiples archivos en formato `.csv` y `.x
 
 ### Detalle Almacen – Ventas, Sucursales y Productos
 
-[![Dashboard Videoclub](img/3. Dashboard_Toys.png)]
+[![Dashboard Videoclub](https://github.com/mdoti/powerbi/blob/main/img/3.%20Dashboard_Toys.png)]
 
 ---
 
@@ -133,7 +133,7 @@ The data model was built using multiple `.csv` and `.xlsx` files containing:
 
 ### Store Overview – Sales, Locations, and Products
 
-[![Store_Dashboard](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_toys.png)]
+[![Store_Dashboard](https://github.com/mdoti/powerbi/blob/main/img/3.%20Dashboard_Toys.png)]
 
 ---
 
@@ -150,7 +150,7 @@ The data model was built using multiple `.csv` and `.xlsx` files containing:
 ## 🧑‍💻 Author
 
 This dashboard was created by Marcelo Doti as part of my ongoing development in data analytics.  
-📫 Contact: marcelodotirisotto@gmail.com | [linkedin.com/in/marcelodoti] | [github.com/mdoti]
+📫 Contact: marcelodotirisotto@gmail.com | www.linkedin.com/in/marcelodoti | www.github.com/mdoti
 
 
 
