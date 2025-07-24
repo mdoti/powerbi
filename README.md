@@ -49,13 +49,13 @@ El modelo fue construido a partir de múltiples archivos en formato `.csv` y `.x
 
 ### Detalle Videoclub – Popularidad, Alquileres y Géneros
 
-![Dashboard Videoclub](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_Video.png))
+[![Dashboard Videoclub](https://github.com/mdoti/powerbi/blob/main/img/2.%20Dashboard_Video.png)]
 
 ---
 
 ### Detalle Almacen – Ventas, Sucursales y Productos
 
-![Dashboard Videoclub](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_toys.png))
+[![Dashboard Videoclub](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_toys.png)]
 
 ---
 
@@ -72,7 +72,7 @@ El modelo fue construido a partir de múltiples archivos en formato `.csv` y `.x
 ## 🧑‍💻 Autor
 
 Este informe fue desarrollado por Marcelo Doti como parte de mi formación en análisis de datos.  
-📫 Contacto: marcelodotirisotto@gmail.com | linkedin.com/in/marcelodoti | github.com/mdoti
+📫 Contacto: marcelodotirisotto@gmail.com | [linkedin.com/in/marcelodoti] | [github.com/mdoti]
 
 
 
@@ -127,13 +127,13 @@ The data model was built using multiple `.csv` and `.xlsx` files containing:
 
 ### Videoclub Detail – Popularity, Rentals and Genre Analysis
 
-![Videoclub Dashboard](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_Video.png))
+[![Videoclub Dashboard](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_Video.png)]
 
 ---
 
 ### Store Overview – Sales, Locations, and Products
 
-![Store_Dashboard](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_toys.png))
+[![Store_Dashboard](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_toys.png)]
 
 ---
 
@@ -150,7 +150,7 @@ The data model was built using multiple `.csv` and `.xlsx` files containing:
 ## 🧑‍💻 Author
 
 This dashboard was created by Marcelo Doti as part of my ongoing development in data analytics.  
-📫 Contact: marcelodotirisotto@gmail.com | linkedin.com/in/marcelodoti | github.com/mdoti
+📫 Contact: marcelodotirisotto@gmail.com | [linkedin.com/in/marcelodoti] | [github.com/mdoti]
 
 
 
