@@ -55,7 +55,7 @@ El modelo fue construido a partir de múltiples archivos en formato `.csv` y `.x
 
 ### Detalle Almacen – Ventas, Sucursales y Productos
 
-[![Dashboard Videoclub](https://github.com/mdoti/powerbi/blob/main/img/1.%20Dashboard_toys.png)]
+[![Dashboard Videoclub](img/3. Dashboard_Toys.png)]
 
 ---
 
@@ -72,7 +72,7 @@ El modelo fue construido a partir de múltiples archivos en formato `.csv` y `.x
 ## 🧑‍💻 Autor
 
 Este informe fue desarrollado por Marcelo Doti como parte de mi formación en análisis de datos.  
-📫 Contacto: marcelodotirisotto@gmail.com | [linkedin.com/in/marcelodoti] | [github.com/mdoti]
+📫 Contacto: marcelodotirisotto@gmail.com | www.linkedin.com/in/marcelodoti | www.github.com/mdoti
 
 
 
